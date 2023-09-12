@@ -15,3 +15,4 @@ tee $HOME/celestia-appd.service > /dev/null <<EOF
 [Install]
   WantedBy=multi-user.target
 EOF
+#Meve
