@@ -15,7 +15,6 @@ tee $HOME/celestia-appd.service > /dev/null <<EOF
 [Install]
   WantedBy=multi-user.target
 EOF
-#Meve
 @king May
 CELESTIA_VALOPER=$(celestia-appd keys show $CELESTIA_WALLET --bech val -a) 
 echo $CELESTIA_VALOPER 
