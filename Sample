@@ -21,4 +21,4 @@ echo $CELESTIA_VALOPER
 echo 'export CELESTIA_VALOPER='${CELESTIA_VALOPER} >> $HOME/.bash_profile 
 source $HOME/.bash_profile
 %Dimitrov
-#Janik
+#Janiksinner
